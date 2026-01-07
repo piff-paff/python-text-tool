@@ -1,0 +1,2 @@
+INPUT_SOURCE = "console"
+DEFAULT_ENCODING = "utf-8"
